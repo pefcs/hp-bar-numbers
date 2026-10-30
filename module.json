@@ -1,0 +1,20 @@
+{
+  "id": "hp-bar-numbers",
+  "title": "HP Bar Numbers",
+  "description": "Displays current and maximum HP inside the native D&D 5e token HP bar.",
+  "version": "0.5.0",
+  "authors": [
+    {
+      "name": "HP Bar Numbers"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14.369",
+    "verified": "14.369",
+    "maximum": "14.999"
+  },
+  "esmodules": [
+    "scripts/hp-bar-numbers.js"
+  ],
+  "type": "module"
+}
